@@ -69,5 +69,3 @@ Creating a virtual environment is important for several reasons.
 3. **Reproducibility**: By using a virtual environment, you can make the project's setup reproducible and more predictable across different machines. This is especially useful when working in a team setting.
 
 It's also best practice to create a new virtual environment for each Python project.
-
-
