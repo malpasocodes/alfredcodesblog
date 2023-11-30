@@ -9,7 +9,9 @@ If you are a software developer, you need to know about virtual environments. In
 
 # Installation 
 
-On a macintosh, open up terminal and navigate to the directory where you want to create the virtual environment. The directory is typically where you are about to begin a new Python project. To install the virtual environment type:
+**Macintosh**
+
+On a Macintosh, open up terminal and navigate to the directory where you want to create the virtual environment. The directory is typically where you are about to begin a new Python project. To install the virtual environment type:
 
 {{< highlight python >}}
 # create a virtual environment named '.venv'
@@ -22,6 +24,8 @@ This creates a virtual environment called .venv in a directory with the same nam
 # activate the virtual environment
 source .venv/bin/activate
 {{</highlight >}}
+
+**Windows**
 
 On Windows open the Command Prompt. Then navigate to the directory where you want to create the virtual environment.
 
@@ -37,8 +41,6 @@ python -m venv .venv
 
 # Explanation
 
-
-
 {{< notice question >}}
 What is a virtual environment?
 {{< /notice >}}
@@ -50,10 +52,6 @@ Why should I use a virtual environment?
 {{< /notice >}}
 
 Creating a virtual environment is important for several reasons. 
-
-GitHub Copilot: A virtual environment is an isolated environment where you can install software and Python packages without affecting your system's other Python projects. It's essentially a folder/directory that contains a Python installation (of a particular version), plus a few additional tools.
-
-Creating a virtual environment is important for several reasons:
 
 1. **Dependency Management**: Different projects may require different versions of packages. By isolating project environments, you can install different package versions without conflicts.
 
@@ -69,14 +67,3 @@ How do I create a virtual environment in Python?
 
 There are several ways to create virtual environments in Python. For most projects, I recommend I going with ``venv`` which comes packaged with your Python installation. 
 
-On a Macintosh, 
-
-- Open Terminal
-- Navigate to the directory where you want to create the virtual environment
-
-
-# Create a virtual environment named '.venv'
-python3 -m venv venv
-
-# Activate the virtual environment
-source venv/bin/activate
