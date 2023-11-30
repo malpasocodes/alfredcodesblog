@@ -14,3 +14,9 @@ math = true
 Does Latex work?
 
 $e = mc^2$
+
+{{< highlight python >}}
+
+hugo server
+
+{{</highlight >}}
