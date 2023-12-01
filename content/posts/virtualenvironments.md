@@ -34,6 +34,11 @@ On Windows open the Command Prompt. Then navigate to the directory where you wan
 python -m venv .venv
 {{</highlight >}}
 
+{{< highlight python >}}
+# activate the virtual environment
+.venv\Scripts\activate
+{{</highlight >}}
+
 
 
 ## 1.2 Installing Packages
