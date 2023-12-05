@@ -11,7 +11,7 @@ If you are a software developer, you need to know about virtual environments. In
 
 **1.1a Macintosh**
 
-On a Macintosh, open up terminal and navigate to the directory where you want to create the virtual environment. The directory is typically where you are about to begin a new Python project. If you are in an IDE such as VS Code, open the terminal window in your project directory. To install the virtual environment type:
+On a Macintosh, open up terminal and navigate to the directory where you want to create the virtual environment. The directory is typically where you are about to begin a new Python project. Note: If you are in an IDE such as VS Code, open the terminal window in your project directory. To install the virtual environment type:
 
 {{< highlight python >}}
 # create a virtual environment named '.venv'
