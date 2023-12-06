@@ -1,7 +1,7 @@
 +++ 
 
 date = 2023-12-01
-title = "Why Use a Virtual Environment?"
+title = "What is a virtual environment and why use it??"
 description = ""
 slug = ""
 authors = []
