@@ -5,7 +5,6 @@ title = "Change Macintosh Computer Name"
 description = ""
 slug = ""
 tags = ["MacOS"]
-categories = ["MacOS"]
 series = ["MacOS"]
 
 +++
