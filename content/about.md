@@ -1,3 +1,3 @@
 # About Me
 
-I am Alfred Essa. That's about it for now.
+I am Alfred Essa. That's about it for now folks.
