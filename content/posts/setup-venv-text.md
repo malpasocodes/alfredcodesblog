@@ -1,12 +1,11 @@
 +++
 title = 'Setup a Python Virtual Environment (Text)'
 date = 2023-12-03
-
+series = ["Virtual Environments"]
 +++
 
 # 0. Summary
-If you are a software developer, you need to know about virtual environments. In this post I go over how to setup a Python virtual environment for both Macintosh and Windows. In "Why 
-setup a Virtual Environment?", I explain what is a virtual environment and why you should use it. "How to Setup a Python Virtual Environment (Video)", I provide an accompanying video.
+If you are a software developer, you need to know about virtual environments. In this post I go over how to setup a Python virtual environment for both Macintosh and Windows. [What Is a Virtual Environment and Why Use It?]({{< ref "/content/posts/why-venv.md">}}) contains an explanation of virtual environments. [How to Setup a Python Virtual Environment (Video)]({{< ref "/content/posts/setup-venv-video.md">}}) is a video accompaniment to this post.
 
 There are four basic steps in setting up and using a Python Virtual Environment:
 

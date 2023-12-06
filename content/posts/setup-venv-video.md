@@ -1,6 +1,6 @@
 +++ 
 date = 2023-12-05
-title = "Set up a Python Virtual Environment (video)"
+title = "Set up a Python Virtual Environment (Video)"
 description = ""
 slug = ""
 authors = []
@@ -11,6 +11,6 @@ series = ["Virtual Environments"]
 
 +++
 
-Here's a short video on how to setup a Python Virtual Environment.
+Here's a short YouTube video on how to setup a Python Virtual Environment.
 
 {{< youtube hVxL-k5daDE >}}

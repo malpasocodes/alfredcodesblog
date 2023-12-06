@@ -1,18 +1,16 @@
 +++ 
 
 date = 2023-12-01
-title = "What is a virtual environment and why use it??"
+title = "What Is a Virtual Environment and Why Use it?"
 description = ""
 slug = ""
 authors = []
 tags = []
 categories = []
 externalLink = ""
-series = []
+series = ["Virtual Environments"]
  
 +++
-
-
 
 # 0. Summary 
 
