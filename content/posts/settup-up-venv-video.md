@@ -1,6 +1,6 @@
 +++ 
-date = 2023-12-05T18:00:23-05:00
-title = "Setting up a Python Virtual Environment (video)"
+date = 2023-12-05
+title = "Set up a Python Virtual Environment (video)"
 description = ""
 slug = ""
 authors = []
