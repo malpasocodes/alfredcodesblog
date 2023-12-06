@@ -14,19 +14,19 @@ series = []
 
 
 
-**0. Summary** 
+# 0. Summary 
 
 In this post I try to answer two questions: 1) What is a virtual environment?; 2) Why setup a virtual environment. 
 
-**1. What is a Virtual Environment?**
+# 1. What is a Virtual Environment?
 
-A virtual environment is an isolated environment where you can install software, Python packages (if you are using Python), and other dependencies without affecting other projects or your main environment. 
+A virtual environment is like a separate box on your computer where you can keep the tools and materials needed for a specific project. This way, the tools and materials from different projects don't get mixed up with each other or with the general tools and materials on your computer. In the context of programming, these tools and materials are software, packages, and other dependencies.
 
-{{< notice question >}}
-Why should I use a virtual environment?
-{{< /notice >}}
+In Python, a virtual environment is a self-contained directory tree that includes a Python installation and a number of additional packages. These environments, created by tools like `venv` or `virtualenv` or `conda`, allow you to keep the dependencies for different projects separate. This means that each project can have its own dependencies, regardless of what dependencies other projects have. This is particularly useful when different projects require different versions of the same package.
 
-**2. Why Setup a Virtual Environment?**
+
+
+# 2. Why Setup a Virtual Environment?
 
 Creating a virtual environment is important for several reasons. 
 
