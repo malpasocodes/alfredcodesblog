@@ -59,7 +59,7 @@ On Windows,
 
 
 
-## 3 Install Packages
+## 3. Install Packages
 
 Once you have installed and activated the virtual environment, you can install packages using ``pip``. For example, to install streamlit in your new virtual environment, type:
 
@@ -70,4 +70,18 @@ pip install streamlit
 
 Streamlit should now be available to you to import in your Python script.
 
+## 4. Deactivate Virtual Environment
 
+To deactivate the virtual environment, on a Macintosh:
+
+{{< highlight python >}}
+# activate the virtual environment
+source .venv/bin/deactivate
+{{</highlight >}}
+
+On Windows,
+
+{{< highlight python >}}
+# activate the virtual environment
+.venv\Scripts\deactivate
+{{</highlight >}}
