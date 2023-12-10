@@ -13,4 +13,4 @@ series = ["Virtual Environments"]
 
 Here's a short YouTube video on how to setup a Python Virtual Environment.
 
-{{< youtube ApKkOXwINl4&t >}}
+{{< youtube ApKkOXwINl4 >}}
