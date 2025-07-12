@@ -84,3 +84,48 @@
 /* GenericTraceback */ .chroma .gt {  }
 /* GenericUnderline */ .chroma .gl {  }
 /* TextWhitespace */ .chroma .w {  }
+
+.code-block {
+  position: relative;
+  margin: 1rem 0;
+}
+
+.code-header {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  z-index: 10;
+}
+
+.copy-button {
+  background: rgba(0, 0, 0, 0.7);
+  border: none;
+  border-radius: 4px;
+  color: white;
+  padding: 6px 8px;
+  cursor: pointer;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  transition: background-color 0.2s;
+}
+
+.copy-button:hover {
+  background: rgba(0, 0, 0, 0.9);
+}
+
+.copy-icon {
+  width: 14px;
+  height: 14px;
+}
+
+.code-content {
+  position: relative;
+}
+
+/* Ensure code blocks have proper styling */
+.code-block pre {
+  margin: 0;
+  padding-top: 2.5rem; /* Make room for copy button */
+}
